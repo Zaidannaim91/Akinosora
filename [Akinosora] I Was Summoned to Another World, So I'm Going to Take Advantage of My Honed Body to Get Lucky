@@ -1,0 +1,25 @@
+{
+   "title":"[Akinosora] I Was Summoned to Another World, So I'm Going to Take Advantage of My Honed Body to Get Lucky",
+   "description":"",
+   "author":"Akinosora",
+   "artist":"Akinosora",
+   "cover":"https://i.imgur.com/QSxhFLc.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/Y4gDOQQ"
+         },
+         "last_updated":1624606143,
+         "title":"I Was Summoned to Another World, So I'm Going to Take Advantage of My Honed Body to Get Lucky Part 1",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/iwJI2O5"
+         },
+         "last_updated":1624606143,
+         "title":"I Was Summoned to Another World, So I'm Going to Take Advantage of My Honed Body to Get Lucky Part 2",
+         "volume":"2"         
+      }
+   }
+}
